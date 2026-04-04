@@ -2,7 +2,7 @@
 
 # k07g
 
-**Backend Engineer** · Tokyo, Japan
+**バックエンドエンジニア** · 東京
 
 Go · TypeScript · Rust · Python
 
@@ -10,45 +10,40 @@ Go · TypeScript · Rust · Python
 
 ---
 
-### About
+### 自己紹介
 
-Software engineer based in Tokyo, building backend systems and exploring systems programming.
-Open to new opportunities.
+東京を拠点に、バックエンドシステムの開発やシステムプログラミングを探求しているソフトウェアエンジニアです。
+新しい機会を歓迎します。
 
 ---
 
-### Tech Stack
+### 技術スタック
 
-**Languages**
+**言語**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**Frameworks & Tools**
+**フレームワーク & ツール**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k07g&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)](https://github.com/k07g)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k07g&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/k07g)
-
-</div>
-
----
-
-### Contact
+### 連絡先
 
 [![Website](https://img.shields.io/badge/Website-ko07ga.jp-000000?style=flat-square&logo=globe&logoColor=white)](https://www.ko07ga.jp/)
 [![GitHub](https://img.shields.io/badge/GitHub-k07g-181717?style=flat-square&logo=github)](https://github.com/k07g)
