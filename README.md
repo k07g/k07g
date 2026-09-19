@@ -13,6 +13,7 @@ Go · TypeScript · Rust · Python
 ### 自己紹介
 
 東京を拠点に、バックエンドシステムの開発やシステムプログラミングを探求しているソフトウェアエンジニアです。
+Go を軸としたクリーンアーキテクチャの実践から、AWS 上でのインフラ構築・運用まで、30 近いリポジトリで日々手を動かしています。
 新しい機会を歓迎します。
 
 ---
@@ -40,6 +41,19 @@ Go · TypeScript · Rust · Python
 ![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 注目のプロジェクト
+
+| リポジトリ | 概要 |
+| --- | --- |
+| [g1](https://github.com/k07g/g1) | クリーンアーキテクチャの原則に従った Go 製 REST API |
+| [g4](https://github.com/k07g/g4) | Cognito + PostgreSQL によるユーザー認証 API |
+| [g2](https://github.com/k07g/g2) | タスク管理 Web API |
+| [t1](https://github.com/k07g/t1) | AWS インフラストラクチャを管理する Terraform プロジェクト |
+| [career-sheet](https://github.com/k07g/career-sheet) | Next.js 製 職務経歴書アプリ |
+| [timecrowd-go](https://github.com/k07g/timecrowd-go) | TimeCrowd API の Go クライアントライブラリ |
 
 ---
 
